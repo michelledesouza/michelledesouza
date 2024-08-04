@@ -9,8 +9,7 @@
 </p>
 
 ## **🐉 About me:**
-* Michelle de Souza, 19 years
-* Front-End Programmer
+* Michelle de Souza, 21 years
 * Currently studying Java
 
 ## **💬 My skills:**
